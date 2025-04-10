@@ -51,7 +51,3 @@ Models were evaluated using test accuracy and confusion matrices. CNN outperform
 - `KNN.ipynb`
 - `NaiveBayes.ipynb`
 
----
-
-**Author**: *Your Name*  
-**License**: MIT
