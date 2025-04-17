@@ -2,7 +2,7 @@
 
 This project compares several classical machine learning and deep learning models for image classification on the CIFAR-10 dataset. Each method is evaluated based on test accuracy and generalization performance.
 
-## 📂 Methods Used
+##  Methods Used
 
 ### 1. Convolutional Neural Network (CNN)
 Two convolutional blocks with pooling and dropout followed by a dense layer and softmax.  
@@ -39,10 +39,10 @@ Assumes feature independence, trained on PCA-reduced inputs.
 **Test Accuracy**: **32.75%**  
 Baseline model with lowest performance; unable to capture image complexity.
 
-## 📊 Evaluation
+##  Evaluation
 Models were evaluated using test accuracy and confusion matrices. CNN outperformed all others, demonstrating the power of deep learning in image classification tasks.
 
-## 📁 Notebooks
+##  Notebooks
 - `CNN.ipynb`
 - `SVM.ipynb`
 - `MLP.ipynb`
